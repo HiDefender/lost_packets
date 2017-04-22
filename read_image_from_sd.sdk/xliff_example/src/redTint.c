@@ -12,7 +12,7 @@
 /************************** Constant Definitions *****************************/
 #define BITMAPFILEHEADERLENGTH 14   // The bmp FileHeader length is 14
 #define BM 19778                    // The ASCII code for BM
-#define BATCH_SIZE 5
+#define BATCH_SIZE 3
 /**************************** Type Definitions *******************************/
 
 /************************** Function Prototypes ******************************/
